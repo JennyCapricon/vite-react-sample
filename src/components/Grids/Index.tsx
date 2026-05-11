@@ -7,17 +7,17 @@ function FeedGrid() {
       grid-cols-3 
       gap-4"
     >
-      <FeedCard title="Foto Casa" />
-      <FeedCard title="Foto Casa" />
-      <FeedCard title="Foto Casa" />
+      <FeedCard title="Jenny World" />
+      <FeedCard title=" Daniel" />
+      <FeedCard title="Song Kang" />
 
-      <FeedCard title="Foto Casa" />
-      <FeedCard title="Foto Casa" />
-      <FeedCard title="Foto Casa" />
+      <FeedCard title="Elvis" />
+      <FeedCard title="Ekene" />
+      <FeedCard title="Joseph" />
 
-      <FeedCard title="Foto Casa" />
-      <FeedCard title="Foto Casa" />
-      <FeedCard title="Foto Casa" />
+      <FeedCard title="Uche" />
+      <FeedCard title="Joseph" />
+      <FeedCard title="Dinero" />
     </div>
 
   );
